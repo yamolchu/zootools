@@ -1,0 +1,27 @@
+{
+  "name": "ZooTools - Reevel",
+  "version": "1.0.0",
+  "description": "there is no MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.39",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "csv-stringify": "^6.4.0",
+    "csv-writer": "^1.6.0",
+    "https-proxy-agent": "^7.0.1",
+    "puppeteer": "^20.5.0",
+    "puppeteer-core": "^20.5.0",
+    "socks-proxy-agent": "^8.0.1",
+    "socks5-https-client": "^1.2.1",
+    "user-agents": "^1.0.1444"
+  }
+}

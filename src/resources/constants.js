@@ -4,7 +4,7 @@ const fs = require("fs");
 const threadCount = 1;
 const anticaptchaApiKey = "";
 const referral = "";
-const formType = "zootools"; //zerion zootools
+const formType = "zerion"; //zerion или reveel
 const proxyType = "http"; //http socks5
 
 const typeOfFunc = "1";
